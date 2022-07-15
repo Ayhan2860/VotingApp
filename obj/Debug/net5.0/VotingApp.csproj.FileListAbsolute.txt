@@ -1,0 +1,16 @@
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/bin/Debug/net5.0/VotingApp
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/bin/Debug/net5.0/VotingApp.deps.json
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/bin/Debug/net5.0/VotingApp.runtimeconfig.json
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/bin/Debug/net5.0/VotingApp.runtimeconfig.dev.json
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/bin/Debug/net5.0/VotingApp.dll
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/bin/Debug/net5.0/VotingApp.pdb
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/obj/Debug/net5.0/VotingApp.csproj.AssemblyReference.cache
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/obj/Debug/net5.0/VotingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/obj/Debug/net5.0/VotingApp.AssemblyInfoInputs.cache
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/obj/Debug/net5.0/VotingApp.AssemblyInfo.cs
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/obj/Debug/net5.0/VotingApp.csproj.CoreCompileInputs.cache
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/obj/Debug/net5.0/VotingApp.dll
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/obj/Debug/net5.0/refint/VotingApp.dll
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/obj/Debug/net5.0/VotingApp.pdb
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/obj/Debug/net5.0/VotingApp.genruntimeconfig.cache
+/Users/ayhankaraman/Documents/Developer_Works/VotingApp/obj/Debug/net5.0/ref/VotingApp.dll
